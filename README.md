@@ -8,9 +8,9 @@ You can refer to the reports below to learn more about each CVE.
 
 ## Reports
 
-| CVE            | Bounty    | Priority    | Vulnerability                                            |  Report                                                                                                                                                |
-|----------------|-----------|-------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| CVE-2026-42743 | 89.7 AXP  | High        | Masteriyo LMS Lemon Squeezy Webhook Forgery              | [🔗](CVE-2026-42743/CVE-2026-42743.md)                                                            
+| CVE            | Bounty    | Priority    | Vulnerability                                            |  Report                                 |  Date                                                        |
+|----------------|-----------|-------------|----------------------------------------------------------|-----------------------------------------|--------------------------------------------------------------|
+| CVE-2026-42743 | 89.7 AXP  | High        | Masteriyo LMS Lemon Squeezy Webhook Forgery              | [🔗](CVE-2026-42743/CVE-2026-42743.md)  |  28 May, 2026                                                |
 
 ## Achievement
 
