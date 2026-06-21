@@ -18,4 +18,4 @@ I have participated in the Patchstack Alliance vulnerability research program ac
 
 The screenshot below shows one of my achievements in **April 2026**, where I ranked **14th** on the Patchstack monthly leaderboard.
 
-<img width="929" height="905" alt="rank" src="https://github.com/user-attachments/assets/7f0ce128-180c-4932-9313-f713505c5274" />
+<img width="931" height="906" alt="rank" src="https://github.com/user-attachments/assets/de0db057-73e5-4096-9031-46c6aaf617f0" />
