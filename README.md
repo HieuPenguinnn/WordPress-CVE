@@ -12,7 +12,7 @@ You can refer to the reports below to learn more about each CVE.
 |-|--|-|-|-|-|
 | CVE-2026-42743 | 89.7 AXP  | High | Masteriyo LMS Lemon Squeezy Webhook Forgery | [🔗](https://patchstack.com/database/wordpress/plugin/learning-management-system/vulnerability/wordpress-masteriyo-lms-plugin-2-1-8-broken-authentication-vulnerability)  [📄](CVE-2026-42743/CVE-2026-42743.md)  |  28 May, 2026 |
 | CVE-2026-54804 | 22.8 AXP  | High | Melhor Envio Subscriber API Token Disclosure and Overwrite| [🔗](https://patchstack.com/database/wordpress/plugin/melhor-envio-cotacao/vulnerability/wordpress-melhor-envio-plugin-2-16-3-broken-authentication-vulnerability)  [📄](CVE-2026-54804/CVE-2026-54804.md)  |  16 Jun, 2026 |
-| CVE-2026-54840 | 22.8 AXP  | High | Melhor Envio Subscriber API Token Disclosure and Overwrite| [🔗](https://patchstack.com/database/wordpress/plugin/newsletters-lite/vulnerability/wordpress-newsletters-plugin-4-13-broken-access-control-vulnerability)  [📄](CVE-2026-54840/CVE-2026-54840.md)  |  18 Jun, 2026 |
+| CVE-2026-54840 | 14.6 AXP  | Medium | Newsletters - Unauthenticated Subscriber Management Account Takeover| [🔗](https://patchstack.com/database/wordpress/plugin/newsletters-lite/vulnerability/wordpress-newsletters-plugin-4-13-broken-access-control-vulnerability)  [📄](CVE-2026-54840/CVE-2026-54840.md)  |  18 Jun, 2026 |
 
 ## Achievement
 
