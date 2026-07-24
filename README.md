@@ -14,6 +14,7 @@ You can refer to the reports below to learn more about each CVE.
 | CVE-2026-54804 | 22.8 AXP  | High | Melhor Envio Subscriber API Token Disclosure and Overwrite| [🔗](https://patchstack.com/database/wordpress/plugin/melhor-envio-cotacao/vulnerability/wordpress-melhor-envio-plugin-2-16-3-broken-authentication-vulnerability)  [📄](CVE-2026-54804/CVE-2026-54804.md)  |  16 Jun, 2026 |
 | CVE-2026-54826 | 7.6 AXP  | Medium | SupportCandy Attachment IDOR via Thread Endpoint| [🔗](https://patchstack.com/database/wordpress/plugin/supportcandy/vulnerability/wordpress-supportcandy-plugin-3-4-6-insecure-direct-object-references-idor-vulnerability)  [📄](CVE-2026-54826/CVE-2026-54826.md)  |  17 Jun, 2026 |
 | CVE-2026-54840 | 14.6 AXP  | Medium | Newsletters - Unauthenticated Subscriber Management Account Takeover| [🔗](https://patchstack.com/database/wordpress/plugin/newsletters-lite/vulnerability/wordpress-newsletters-plugin-4-13-broken-access-control-vulnerability)  [📄](CVE-2026-54840/CVE-2026-54840.md)  |  18 Jun, 2026 |
+| CVE-2026-57341 | 13 AXP  | Medium | Méthodes de livraison pour WooCommerce| [🔗](https://patchstack.com/database/wordpress/plugin/colissimo-shipping-methods-for-woocommerce/vulnerability/wordpress-colissimo-officiel-methodes-de-livraison-pour-woocommerce-plugin-2-9-0-insecure-direct-object-references-idor-vulnerability)  [📄](CVE-2026-54840/CVE-2026-54840.md)  |  29 Jun, 2026 |
 
 ## Achievement
 
