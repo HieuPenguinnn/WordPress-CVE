@@ -16,7 +16,7 @@ You can refer to the reports below to learn more about each CVE.
 | CVE-2026-54840 | 14.6 AXP  | Medium | Newsletters - Unauthenticated Subscriber Management Account Takeover| [🔗](https://patchstack.com/database/wordpress/plugin/newsletters-lite/vulnerability/wordpress-newsletters-plugin-4-13-broken-access-control-vulnerability)  [📄](CVE-2026-54840/CVE-2026-54840.md)  |  18 Jun, 2026 |
 | CVE-2026-57341 | 13 AXP  | Medium | Méthodes de livraison pour WooCommerce| [🔗](https://patchstack.com/database/wordpress/plugin/colissimo-shipping-methods-for-woocommerce/vulnerability/wordpress-colissimo-officiel-methodes-de-livraison-pour-woocommerce-plugin-2-9-0-insecure-direct-object-references-idor-vulnerability)  [📄](CVE-2026-57341/CVE-2026-57341.md)  |  29 Jun, 2026 |
 | CVE-2026-57365 | 6.5 AXP  | Medium | reCAPTCHA (v2 &amp; v3) for Asgaros Forum | [🔗](https://patchstack.com/database/wordpress/plugin/recaptcha-for-asgaros-forum/vulnerability/wordpress-recaptcha-v2-v3-for-asgaros-forum-plugin-1-1-0-cross-site-scripting-xss-vulnerability)  [📄](CVE-2026-57365/CVE-2026-57365.md)  |  6 Jul, 2026 |
-
+| CVE-2026-57408 | 13 AXP  | Low | Peach Payments Gateway | [🔗](https://patchstack.com/database/wordpress/plugin/wc-peach-payments-gateway/vulnerability/wordpress-peach-payments-gateway-plugin-4-0-2-broken-access-control-vulnerability)  [📄](CVE-2026-57408/CVE-2026-57408.md)  |  8 Jul, 2026 |
 ## Achievement
 
 I have participated in the Patchstack Alliance vulnerability research program across multiple months, where I reported security vulnerabilities, received bounties, and appeared on the monthly researcher leaderboard.
