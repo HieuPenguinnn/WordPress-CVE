@@ -18,6 +18,7 @@ You can refer to the reports below to learn more about each CVE.
 | CVE-2026-57365 | 6.5 AXP  | Medium | Stored XSS in reCAPTCHA for Asgaros Forum via Site Key | [🔗](https://patchstack.com/database/wordpress/plugin/recaptcha-for-asgaros-forum/vulnerability/wordpress-recaptcha-v2-v3-for-asgaros-forum-plugin-1-1-0-cross-site-scripting-xss-vulnerability)  [📄](CVE-2026-57365/CVE-2026-57365.md)  |  6 Jul, 2026 |
 | CVE-2026-57408 | 13 AXP  | Low | Payment Status Forgery via Unauthenticated Webhook | [🔗](https://patchstack.com/database/wordpress/plugin/wc-peach-payments-gateway/vulnerability/wordpress-peach-payments-gateway-plugin-4-0-2-broken-access-control-vulnerability)  [📄](CVE-2026-57408/CVE-2026-57408.md)  |  8 Jul, 2026 |
 | CVE-2026-61948 | 18.6 AXP  | High | Unauthenticated SQL Injection in Mini Cart Coupon REST Endpoint | [🔗](https://patchstack.com/database/wordpress/plugin/wpdm-premium-packages/vulnerability/wordpress-wpdm-premium-packages-plugin-6-2-0-sql-injection-vulnerability)  [📄](CVE-2026-61948/CVE-2026-61948.md)  |  16 Jul, 2026 |
+| CVE-2026-59557 | 13 AXP  | Medium | Events Made Easy Arbitrary Person Record Modification Without Login | [🔗](https://patchstack.com/database/wordpress/plugin/events-made-easy/vulnerability/wordpress-events-made-easy-plugin-3-1-3-broken-access-control-vulnerability)  [📄](CVE-2026-59557/CVE-2026-59557.md)  |  24 Jul, 2026 |
 
 ## Achievement
 
